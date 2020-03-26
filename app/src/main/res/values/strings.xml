@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="textView2">Number 2</string>
+    <string name="textView">Number 1</string>
+    <string name="editText" />
+    <string name="editText2" />
+    <string name="button">ok</string>
+    <string name="textView3">Number 1</string>
+    <string name="textView4">Number 2</string>
+    <string name="editText3" />
+    <string name="editText4" />
+    <string name="editAnswer" />
+    <string name="btnAdd">+</string>
+    <string name="btnSub">-</string>
+    <string name="btnMul">*</string>
+    <string name="btnDiv" >/</string>
+    <string name="btnGo">GO</string>
+    <string name="custom_toast_message">Sending message</string>
+    <string name="custom_toast_message1">To</string>
+    <string name="custom_toast_image">Hello world</string>
+</resources>
